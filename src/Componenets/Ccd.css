@@ -1,0 +1,23 @@
+.ccdContainer{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 3%;
+}
+.ccdHead{
+    color:#FD7D08;
+}
+.shopbtn{
+    background-color: #FD7D08;
+    color: white;
+    padding:4%;
+    width:50%;
+    margin-top: 5%;
+    border:none;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.shopbtn:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}

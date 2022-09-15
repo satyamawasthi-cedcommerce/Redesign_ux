@@ -1,0 +1,16 @@
+.logoImg{
+    width:7%;
+}
+.navDiv{
+    background-color: #FD7D08;
+    display: flex;
+    justify-content: space-between;
+    padding:0.5%;
+    margin-top: 1%;
+}
+.navLink{
+    text-decoration: none;
+}
+.navContent{
+    color:white;
+}
